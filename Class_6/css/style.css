@@ -1,0 +1,162 @@
+.col-1{width: 8.33%;}
+.col-2{width: 16.66%;}
+.col-3{width: 25%;}
+.col-4{width: 33.33%;}
+.col-5{width: 41.66%;}
+.col-6{width: 50%;}
+.col-7{width: 58.33%;}
+.col-8{width: 66.66%;}
+.col-9{width: 75%;}
+.col-10{width: 83.33%;}
+.col-11{width: 91.66%;}
+.col-12{width: 100%;}
+
+/* .wrapper
+{
+    height: 1000px;
+    border: 2px solid black;
+    width: 800px;
+    margin: auto;
+}
+.row-1
+{
+    height: 100px;
+    border-bottom: 2px solid black;
+}
+.logo
+{
+    border-right: 2px solid black;
+    height: 100px;
+}
+.row-2
+{
+    height: 150px;
+    border-bottom: 2px solid black;
+}
+.slider-1
+{
+    height: 150px;
+    border-right: 1px solid black;
+    float: left;
+}
+.slider-2
+{
+    height: 150px;
+    border-right: 1px solid black;
+    float: left;
+}
+.slider-3
+{
+    height: 150px;
+}
+.row-3
+{
+    height: 700px;
+    border-bottom: 2px solid black;
+}
+.sideber
+{
+    height: 700px;
+    border-right: 2px solid black;
+    float: left;
+}
+.content
+{
+    height: 700px;
+    float: left;
+}
+.row-4
+{
+    height: 50px;
+} */
+
+.wrappe
+{
+    height: 1000px;
+    border: 2px solid black;
+    width: 900px;
+    margin: auto;
+}
+.row-1
+{
+    height: 100px;
+    border-bottom: 2px solid black;
+}
+.logo
+{
+    border-right: 2px solid black;
+    height: 100px;
+    float: left;
+}
+.name
+{
+    height: 100px;
+}
+.row-2
+{
+    height: 800px;
+    border-bottom: 2px solid black;
+}
+.left-sidebar
+{
+    height: 800px;
+    border-right: 2px solid black;
+    float: left;
+}
+.middle-bar
+{
+    height: 800px;
+    float: left;
+    width: 66.00%;;
+}
+.right-sidebar
+{
+    height: 800px;
+    border-left: 2px solid black;
+    float: left;
+}
+.row-3
+{
+    height: 100px;
+}
+
+
+
+.card
+{
+    height: 386px;
+    /* border: 2px solid red; */
+    margin: 15px;
+    padding: 0px 5px;
+    text-align: justify;
+    background: azure;
+    border-radius: 5px;
+    box-shadow: 0px 0px 50px black;
+    overflow-y: scroll;
+
+}
+.card-header
+{
+    padding-top: 5px;
+}
+.card-header h1
+{
+    line-height: 1.2;
+    font-family: 'Roboto Mono', monospace;
+}
+.card-body
+{
+
+}
+.card-body p
+{
+    font-size: 23px;
+    color: black;
+    font-weight: 400;
+    letter-spacing: 2px;
+    line-height: 1.2;
+    font-family: 'Freehand', cursive;
+}
+
+/* font-family: 'Freehand', cursive;
+font-family: 'Roboto Mono', monospace; */
